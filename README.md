@@ -1,16 +1,41 @@
-# reddit_clone
+# Reddit Clone (Flutter project)
+An Android clone app for the Reddit web service.
 
-A Flutter project.
+## Architecture Used
+MVC Architecture
 
-## Getting Started
+## Packages
+- Flutter + Dart
+- Routemaster
+- Firebase (Auth, Storage, cloud firestore)
+- fpdart
+- file_picker
+- Flutter riverpod
+- uuid
+- Dotted border
+- Shared preferences
 
-This project is a starting point for a Flutter application.
+## Output
+ ### Login page
+![Login](Images/Login_Screen.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+ ### Home page
+![Home](Images/Home_Screen.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ ### Profile page
+![Profile](Images/Profile_Screen.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ### Edit Profile page
+![Edit Profile](Images/Edit_Profile_Screen.jpg)
+
+### Community page
+![Community](Images/Community_Screen.jpg)
+
+### Create Community page
+![Create Community](Images/Create_Community_Screen.jpg)
+
+### Post Type page
+![Post Type](Images/Post_Type_Screen.jpg)
+
+### Create Post page
+![Create Post](Images/Create_Post_Screen.jpg)
