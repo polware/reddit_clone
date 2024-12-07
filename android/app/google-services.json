@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575537322564",
+    "project_id": "reddit-clone-5f3b6",
+    "storage_bucket": "reddit-clone-5f3b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575537322564:android:d2046520a84bc3690bfa11",
+        "android_client_info": {
+          "package_name": "com.polware.reddit_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdwyMfly0PdcKC91uaCsMEzyw8lFcV2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
